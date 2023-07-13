@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.surokkha.restexception.advice.RESTBodyValidationAdvice,\
+    com.surokkha.restexception.advice.RESTExceptionAdvice
